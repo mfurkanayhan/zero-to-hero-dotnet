@@ -1,0 +1,16 @@
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\bin\Debug\net9.0\FileProcessor.exe
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\bin\Debug\net9.0\FileProcessor.deps.json
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\bin\Debug\net9.0\FileProcessor.runtimeconfig.json
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\bin\Debug\net9.0\FileProcessor.dll
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\bin\Debug\net9.0\FileProcessor.pdb
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.AssemblyInfoInputs.cache
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.AssemblyInfo.cs
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.csproj.CoreCompileInputs.cache
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.sourcelink.json
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.dll
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\refint\FileProcessor.dll
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.pdb
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\FileProcessor.genruntimeconfig.cache
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\obj\Debug\net9.0\ref\FileProcessor.dll
+C:\Projects\zero-to-hero-dotnet\Day01-CSharp-OOP-SOLID\FileProcessor\bin\Debug\net9.0\data.txt
