@@ -1,1 +1,75 @@
+# Build results
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
 .vs/
+
+# Build logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+
+# dotnet watch
+*.hotreload
+
+# Publish
+*.publishsettings
+
+# IIS / Web
+wwwroot/
+appsettings.Development.json
+appsettings.Production.json
+
+# Secrets
+secrets.json
+
+# Others
+*.sqlite
+*.db
+*.bak
+*.cache
+*.tmp
+
+# JetBrains (Rider)
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Logs & debug info
+*.log
+*.dmp
+
+# VS Code settings
+.history/
+.vscode/
+
+# Optional: exclude local environment launch files
+launchSettings.json
